@@ -2,7 +2,7 @@
 
 > A comprehensive handbook that takes you on a day-to-day journey through the exciting and ever-evolving world of ethical hacking.
 
-![Cover Image]([URL_TO_BOOK_COVER_IMAGE](https://github.com/YavuzSahbaz/Mastering-Ethical-Hacking/blob/7050ed6014e530ea0f00a8a43b05b46fb5f5dc3d/image.png))
+![Cover Image](https://github.com/YavuzSahbaz/Mastering-Ethical-Hacking/blob/main/image.png)
 
 ---
 
@@ -34,5 +34,5 @@ Whether you're a novice looking to dive into the cybersecurity field or an exper
 
 ---
 
-🔗 **[Purchase the Book](URL_TO_PURCHASE_LINK)** | 🔗 **[Author's GitHub](URL_TO_AUTHOR_GITHUB)**
+🔗 **[Purchase the Book](https://github.com/YavuzSahbaz/Mastering-Ethical-Hacking/blob/main/Mastering%20Ethical%20Hacking.pdf)** | 🔗 **[Author's GitHub](https://github.com/YavuzSahbaz/)**
 
