@@ -2,8 +2,10 @@
 
 > A comprehensive handbook that takes you on a day-to-day journey through the exciting and ever-evolving world of ethical hacking.
 
-![Cover Image](https://github.com/YavuzSahbaz/Mastering-Ethical-Hacking/blob/main/image.png)
 
+<p align="center">
+  <img src="https://github.com/YavuzSahbaz/Mastering-Ethical-Hacking/blob/main/image.png" alt="Book Cover">
+</p>
 ---
 
 ## 🌟 **About the Book**
