@@ -36,5 +36,5 @@ Whether you're a novice looking to dive into the cybersecurity field or an exper
 
 ---
 
-🔗 **[Purchase the Book](https://github.com/YavuzSahbaz/Mastering-Ethical-Hacking/blob/main/Mastering%20Ethical%20Hacking.pdf)** |
+
 
